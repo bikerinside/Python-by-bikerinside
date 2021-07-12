@@ -1,0 +1,2 @@
+Esecuzione
+python nomefile.py
